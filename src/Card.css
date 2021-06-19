@@ -1,0 +1,9 @@
+.Card {
+  position: absolute;
+  top: 0;
+  left: 150px;
+}
+
+.Card {
+  width: 200px;
+}
